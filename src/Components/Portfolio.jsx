@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Sign Wave",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "One stop communication platform for people with disabilities. This platform converts sign language to speech and vice versa.",
+    url: "https://github.com/anu-shka-singh/BruteForce-SignWave",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Little Immune",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A user friendly Child Vaccination Reminder App developed using Flutter.",
+    url: "https://github.com/DiyaSingla/Little-Immune",
   },
   {
-    title: "My Resume Site",
+    title: "Automatic License Plate Recognition",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A comparative analysis of License Plate recognition and OCR using python libraries, YOLO v3 and YOLO v5 object detection models.",
+    url: "https://github.com/DiyaSingla/Automatic-Licence-Plate-Recognition",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Learn Aid",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A platform to connect passionate mentors with orphanages to provide education to underprivledged children.",
+    url: "https://github.com/DiyaSingla/Learn-Aid",
   },
 ];
 
