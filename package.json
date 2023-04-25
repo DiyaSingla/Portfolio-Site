@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://DiyaSingla.github.io/Portfolio-Site",
+  "homepage": "https://DiyaSingla.github.io/Portfolio-Site",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
